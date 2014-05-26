@@ -1,0 +1,2 @@
+language: Scala
+script: ./sbt test
